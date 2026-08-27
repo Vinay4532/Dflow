@@ -50,4 +50,5 @@ class CartPage extends BasePage
 }
 //console.log("changes applied here")
 }
+//consoloe.log("vinay")
 module.exports={CartPage}
