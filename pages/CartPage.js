@@ -48,5 +48,6 @@ class CartPage extends BasePage
 
     await this.fill(this.yearField, order.year);
 }
+//console.log("changes applied here")
 }
 module.exports={CartPage}
